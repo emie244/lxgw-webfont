@@ -3,5 +3,5 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://gh-proxy.com/https://github.com/emie244/lxgw-webfont/releases/download/v1.0/LXGWWenKai-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/emie244/lxgw-webfont@master/lxgw-regular.woff2) format('woff2');
 }
